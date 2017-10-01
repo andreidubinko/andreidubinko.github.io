@@ -1,0 +1,49 @@
+body {
+	text-align: center;
+	background-image: url("http://svite-league-apps-content.s3.amazonaws.com/bgimages/wood.jpg");
+}
+h1 {
+	text-align: center;
+	text-decoration: underline;
+	color:#bbdb3b;
+	border: 2px dashed #4286f4;
+}
+h2 {
+	text-align: center;
+	color: #4286f4;
+}
+img {
+	display: block;
+	margin: auto;
+}
+p{
+	text-align: center;
+	color:#bbdb3b;
+	font-size: 2rem;
+}
+li{
+	display: inline-block;
+	margin:40px;
+	font-size: 30px;
+}
+a {
+	color:#d1f442;
+	text-decoration: none;
+}
+a:hover{
+	color:#4286f4;
+}
+}
+.bold{
+	font-weight: bold;
+}
+.em {
+	font-family: :Verdana;
+	font-style:italic; 
+}
+.underline {
+	text-decoration: underline;
+}
+.lie {
+	text-decoration: line-through;
+}
