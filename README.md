@@ -17,4 +17,4 @@
 
 [Урок 13](https://andreidubinko.github.io/lesson_13orig/src/ "Домашнее задание")
 
-[Урок 14](https://andreidubinko.github.io/lesson_14main/src/ "Домашнее задание")
+[Урок 14](https://andreidubinko.github.io/lesson_14_main/src/ "Домашнее задание")
