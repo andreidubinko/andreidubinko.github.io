@@ -24,3 +24,5 @@
 [Урок 16](https://andreidubinko.github.io/lesson_16/src/ "Домашнее задание")
 
 [Урок 17](https://andreidubinko.github.io/lesson_17slider/src "Домашнее задание")
+
+[Урок 18](https://andreidubinko.github.io/lesson_18/src/ "Домашнее задание")
