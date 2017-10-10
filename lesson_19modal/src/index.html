@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Modal</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<div class="container">
+
+	  <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Удалить файл</button>
+
+	  <div class="modal fade" id="myModal" role="dialog">
+	    <div class="modal-dialog modal-sm">
+	      <div class="modal-content">
+	        <div class="modal-header">
+	          <button type="button" class="close" data-dismiss="modal">&times;</button>
+	          <h4 class="modal-title"></h4>
+	        </div>
+	        <div class="modal-body">
+	          <p>Вы действительно хотите удалить файл?</p>
+	        </div>
+	        <div class="modal-footer">
+	          <button type="button" class="btn btn-no" data-dismiss="modal">Нет</button>
+	          <button type="button" class="btn btn-yes" data-dismiss="modal">Да</button>
+	        </div>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+
+
+
+
+	<script src="js/jquery-3.2.1.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,20 @@
+.container {
+	display: block;
+	text-align: center;
+	margin-top: 20rem;
+}
+.btn-no{
+	background-color: #50f442;
+	color:#fff;
+}
+.btn-yes {
+	background-color:#f44159;
+	color:#fff;
+}
+.modal {
+	background-color:#f44159;
+}
+.modal-body {
+	color:#fff;
+	background-color:#99898b;	
+}
