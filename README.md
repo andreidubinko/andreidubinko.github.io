@@ -28,3 +28,5 @@
 [Урок 18](https://andreidubinko.github.io/lesson_18/src/ "Домашнее задание")
 
 [Урок 19](https://andreidubinko.github.io/lesson_19modal/src/ "Домашнее задание")
+
+[Урок 20](https://andreidubinko.github.io/lesson_20/src/ "Домашнее задание")
