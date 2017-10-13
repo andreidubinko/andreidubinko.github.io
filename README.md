@@ -32,3 +32,7 @@
 [Урок 19](https://andreidubinko.github.io/lesson_19modal/src/ "Домашнее задание")
 
 [Урок 20](https://andreidubinko.github.io/lesson_20/src/ "Домашнее задание")
+
+[Урок 21_Accordion](https://andreidubinko.github.io/lesson_21accordion/src/ "Домашнее задание")
+
+[Урок 21_tabs](https://andreidubinko.github.io/lesson_21tabs/src/ "Домашнее задание")
