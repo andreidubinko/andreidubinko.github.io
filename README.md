@@ -36,3 +36,6 @@
 [Урок 21_Accordion](https://andreidubinko.github.io/lesson_21accordion/src/ "Домашнее задание")
 
 [Урок 21_tabs](https://andreidubinko.github.io/lesson_21tabs/src/ "Домашнее задание")
+
+[Урок 22](https://andreidubinko.github.io/lesson_22/src/ "Домашнее задание")
+
