@@ -41,4 +41,4 @@
 
 [Урок 23_animatedForm](https://andreidubinko.github.io/lesson_23_animation_form/src/ "Домашнее задание")
 
-[Урок 24](https://https://andreidubinko.github.io/lesson_24/src/ "Домашнее задание")
+[Урок 24](https://andreidubinko.github.io/lesson_24/src/ "Домашнее задание")
