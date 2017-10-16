@@ -406,12 +406,37 @@ section {
 }
 @media (max-width: 767px) {
   .main {
-    background-position: left;
+    background-position: top left;
+    overflow-x: hidden;
+  }
+  .main-content h1 {
+    font-size: 40px;
+    margin-top: 10rem;
   }
   .header {
     text-align: center;
   }
   .wrap-block {
     text-align: center;
+  }
+}
+@media (max-width: 320px) {
+  .main-content h1 {
+    font-size: 20px;
+  }
+  .features {
+    padding: 2rem 0;
+  }
+  .section-header {
+    margin-bottom: 6rem;
+  }
+  .feedback {
+    padding: 5rem 0;
+  }
+  .form label {
+    font-size: 1rem;
+  }
+  .feedback-slider p {
+    font-size: 1rem;
   }
 }

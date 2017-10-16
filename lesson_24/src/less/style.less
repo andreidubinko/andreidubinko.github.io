@@ -185,7 +185,7 @@ section {
 	&-block {
 		display:table-cell;
 		vertical-align: middle;
-		text-align:right;
+		text-align: right;
 	}
 }
 .phone {
@@ -438,13 +438,41 @@ background-color: rgba(0, 0, 0, 0.5);
 }
 
 @media (max-width:767px){
-	.main {
-		background-position: left;
-	}
+    .main {
+        background-position: top left;
+        overflow-x: hidden;
+        &-content {
+        h1 {
+        font-size: 40px;
+        margin-top: 10rem;
+    }
+    }
+    }
 	.header {
 		text-align: center;
 	}
 	.wrap-block {
 		text-align:center;
 	}
+}
+@media (max-width: 320px) {
+    .main-content h1 {
+    font-size: 20px;
+   }
+    .features {
+        padding: 2rem 0;
+    }
+    .section-header {
+        margin-bottom: 6rem;
+
+    }
+    .feedback {
+        padding: 5rem 0;
+    }
+    .form label {
+        font-size: 1rem;
+    }
+    .feedback-slider p {
+        font-size: 1rem;
+    }
 }
