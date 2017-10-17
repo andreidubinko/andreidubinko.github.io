@@ -44,3 +44,5 @@
 [Урок 24](https://andreidubinko.github.io/lesson_24/src/ "Домашнее задание")
 
 [Урок 25_video-bg](https://andreidubinko.github.io/lesson_25_video-bg/src/index.html "Домашнее задание")
+
+[Урок 26](https://andreidubinko.github.io/lesson_26/src/ "Домашнее задание")
