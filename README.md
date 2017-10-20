@@ -50,3 +50,6 @@
 [Урок 28](https://andreidubinko.github.io/lesson_28/src/ "Домашнее задание")
 
 [Урок 29](https://andreidubinko.github.io/lesson_29_maps/src/ "Домашнее задание")
+
+[Урок 30](https://andreidubinko.github.io/lesson_30/src/ "Домашнее задание")
+
