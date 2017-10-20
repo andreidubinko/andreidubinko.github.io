@@ -1,0 +1,63 @@
+.p {
+	margin-top: 30px;
+}
+.map {
+	margin-top: 50px;
+}
+.contact {
+	margin-top: 50px;
+	font-size: 30px;
+}
+.underline {
+	text-decoration:underline;
+}
+.red-box{
+	position: absolute;
+	margin-top: 50px;
+	margin-left: 300px;
+	width: 200px;
+	height: 400px;
+	background-color: #c60b0b;
+	color:#fff;
+	text-align: center;
+	font-size: 15px;
+}
+.footer {
+	position:absolute;
+	margin-top: 450px;
+	margin-left: 15px;
+	width: 1140px;
+	height: 70px;
+	background-color:#fcfdff;
+}
+.logo {
+	margin-left: 280px;
+	position:fixed;
+}
+.near-logo {
+	display: inline-block;
+	margin-left: 350px;
+}
+.sert {
+	position:absolute;
+	margin-top: 0px;
+	display:inline-block;
+	margin-top: 20px;
+	margin-left: 100px;
+	font-size: 1rem;
+	text-align:center;
+	color:#666666;
+}
+.phone {
+	position:absolute;
+	display:inline-block;
+	margin-left: 350px;
+}
+.near-phone {
+	position:absolute;
+	display:inline-block;
+	margin-left: 365px;
+	margin-top: 30px;
+	font-size: 10px;
+	text-align:right;
+}
